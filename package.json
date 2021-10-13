@@ -1,0 +1,20 @@
+{
+  "name": "handlebarsE5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.13",
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
